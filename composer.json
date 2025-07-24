@@ -1,0 +1,18 @@
+{
+    "name": "rokhy/paginator-router",
+    "description": "package pour pagination et routage en php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rokhy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faty Rokhy",
+            "email": "fatyrokhy777@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
